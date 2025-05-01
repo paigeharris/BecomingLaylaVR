@@ -1,0 +1,47 @@
+# Unity meta files and project settings
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Unity generated
+*.bak
+*.old
+*.tmp
+*.log
+
+# XR Toolkit cached bindings
+*.inputactions
+*.inputsettings
+
+# Collab
+.collabignore
+
+# Crash Reports
+sysinfo.txt
+
+# SteamVR
+SteamVR_Settings.asset
+SteamVR_*.json

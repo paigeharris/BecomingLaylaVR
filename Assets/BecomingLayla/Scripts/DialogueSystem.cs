@@ -1,0 +1,1 @@
+// Basic dialogue system placeholder for interaction handling
